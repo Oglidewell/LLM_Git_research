@@ -1,3 +1,4 @@
+Student name: Owen Glidewell
 Question to ChatGPT: Git is almost twenty years old and is used constantly in almost every type of collaborative programming. Why did Linus Torvalds create Git when there were previous distributed version control systems such as SVN? What was the vision for the program? What are the current uses of Git in a professional and casual context? Why has Git become the defacto code sharing and distributed version control systems software of the programming world? Can you also provide some links to where you sourced your information?
 
 ------------------------------------------------------------------------------------------------
